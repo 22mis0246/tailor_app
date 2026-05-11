@@ -85,6 +85,8 @@ Image.network (Unsplash)  ·  In-memory data store
 | 5 | Push notifications (FCM) | 🔜 Later |
 | 6 | Razorpay payments | 🔜 Later |
 
+// COMPLETED MANY MODULES AND DOWNLOADED IN MOBILE BUT THE LAST COMMIT GOT ERASED -11/05/26 *****CURRENTLY NEED FIX AND 3K LOC CODE ERASED IN PREV COMMIT*****
+
 ---
 
 <div align="center">
